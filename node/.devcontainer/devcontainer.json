@@ -16,7 +16,8 @@
         "naumovs.color-highlight", // Highlight web colors in your editor
         "esbenp.prettier-vscode", // Code formatter using prettier
         "vscode-icons-team.vscode-icons", // Icons for Visual Studio Code
-        "wesbos.theme-cobalt2" // 🔥 Official theme by Wes Bos.
+        "wesbos.theme-cobalt2", // 🔥 Official theme by Wes Bos.
+        "aaron-bond.better-comments" // Improve your code commenting by annotating with alert, informational, TODOs, and more!
       ],
       "settings": {
         "workbench.colorTheme": "Cobalt2" // "wesbos.theme-cobalt2" // 🔥 Official theme by Wes Bos.
